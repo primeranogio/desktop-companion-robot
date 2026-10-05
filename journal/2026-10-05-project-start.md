@@ -1,9 +1,9 @@
 # 2026-10-05 — Project Start
 ## Goal
-Start the DeskBuddy project and define the initial structure of the repository.
+Start the NAPO project and define the initial structure of the repository.
 
 ## What I Did
-- Defined the long-term vision of DeskBuddy.
+- Defined the long-term vision of NAPO.
 - Defined the initial V0.1 concept.
 - Created the GitHub repository.
 - Created the initial README.
