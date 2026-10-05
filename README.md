@@ -1,8 +1,8 @@
-# DeskBuddy
+# NAPO
 
 ### A small digital companion for the desk — built one experiment at a time.
 
-DeskBuddy is a long-term personal project focused on building a small digital and physical companion that can eventually live on my desk, interact with me, develop a recognizable personality, and become portable.
+NAPO is a long-term personal project focused on building a small digital and physical companion that can eventually live on my desk, interact with me, develop a recognizable personality, and become portable.
 
 The final vision is ambitious.
 
@@ -12,9 +12,9 @@ The first step is not.
 
 ---
 
-## What is DeskBuddy?
+## What is NAPO?
 
-DeskBuddy is an attempt to build a small companion that feels more like a **presence** than a simple electronic device.
+NAPO is an attempt to build a small companion that feels more like a **presence** than a simple electronic device.
 
 The idea is to progressively combine:
 
@@ -32,7 +32,7 @@ The idea is to progressively combine:
 
 The important part is that these features will **not** be built all at once.
 
-DeskBuddy will grow through small, understandable iterations.
+NAPO will grow through small, understandable iterations.
 
 ---
 
@@ -41,7 +41,7 @@ DeskBuddy will grow through small, understandable iterations.
 The final concept could look something like this:
 
 ```text
-                         DESKBUDDY
+                            NAPO
                              │
                 ┌────────────┴────────────┐
                 │                         │
